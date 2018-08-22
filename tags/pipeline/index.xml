@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pipeline on Alex Peltzer&#39;s webpage</title>
+    <link>https://apeltzer.github.io/tags/pipeline/</link>
+    <description>Recent content in Pipeline on Alex Peltzer&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 10 Dec 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://apeltzer.github.io/tags/pipeline/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lightweight virtualization using Docker</title>
+      <link>https://apeltzer.github.io/talk/08_qbic2016/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/08_qbic2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAGER: Efficient ancient genome Reconstruction</title>
+      <link>https://apeltzer.github.io/talk/07_smbe2016/</link>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/07_smbe2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAGER: Efficient ancient genome Reconstruction</title>
+      <link>https://apeltzer.github.io/talk/06_isc2015/</link>
+      <pubDate>Mon, 28 Sep 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/06_isc2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAGER: Efficient ancient genome Reconstruction</title>
+      <link>https://apeltzer.github.io/talk/05-ismb2015/</link>
+      <pubDate>Mon, 13 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/05-ismb2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAGER: Efficient ancient genome Reconstruction</title>
+      <link>https://apeltzer.github.io/talk/03-kiel2014/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/03-kiel2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAGER: Efficient ancient genome Reconstruction</title>
+      <link>https://apeltzer.github.io/talk/01-isba2014/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/01-isba2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAGER: Efficient ancient genome Reconstruction</title>
+      <link>https://apeltzer.github.io/talk/02-steve2014/</link>
+      <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/02-steve2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

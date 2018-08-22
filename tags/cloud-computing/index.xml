@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud Computing on Alex Peltzer&#39;s webpage</title>
+    <link>https://apeltzer.github.io/tags/cloud-computing/</link>
+    <description>Recent content in Cloud Computing on Alex Peltzer&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://apeltzer.github.io/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Running nf-co.re pipelines with AWSBatch</title>
+      <link>https://apeltzer.github.io/post/01-aws-nfcore/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/post/01-aws-nfcore/</guid>
+      <description>This document is based on experiences provided by Maxime Garcia at his blogpost on running CAW with AWSBatch and our own experiences. We just wanted to acknowledge the effort that Maxime also put into making this work!
+Basic Requirements In order to run this, you need to have a AWS account set up and create an IAM user for it. More detailed information on how to do this can be found under the above link.</description>
+    </item>
+    
+  </channel>
+</rss>

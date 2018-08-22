@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>AWS</title>
+      <link>https://apeltzer.github.io/tags/aws/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>African</title>
       <link>https://apeltzer.github.io/tags/african/</link>
       <pubDate>Thu, 21 Sep 2017 00:00:00 +0200</pubDate>
@@ -49,6 +58,33 @@
     </item>
     
     <item>
+      <title>Bioinformatics</title>
+      <link>https://apeltzer.github.io/tags/bioinformatics/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing</title>
+      <link>https://apeltzer.github.io/tags/cloud-computing/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://apeltzer.github.io/tags/docker/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Egypt</title>
       <link>https://apeltzer.github.io/tags/egypt/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0200</pubDate>
@@ -63,6 +99,15 @@
       <pubDate>Tue, 30 May 2017 00:00:00 +0200</pubDate>
       
       <guid>https://apeltzer.github.io/tags/evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Biology</title>
+      <link>https://apeltzer.github.io/tags/evolutionary-biology/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/evolutionary-biology/</guid>
       <description></description>
     </item>
     
@@ -94,6 +139,24 @@
     </item>
     
     <item>
+      <title>MitoBench</title>
+      <link>https://apeltzer.github.io/tags/mitobench/</link>
+      <pubDate>Sun, 03 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/mitobench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MitoDB</title>
+      <link>https://apeltzer.github.io/tags/mitodb/</link>
+      <pubDate>Sun, 03 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/mitodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mummy</title>
       <link>https://apeltzer.github.io/tags/mummy/</link>
       <pubDate>Tue, 30 May 2017 00:00:00 +0200</pubDate>
@@ -103,11 +166,56 @@
     </item>
     
     <item>
+      <title>NF-Core</title>
+      <link>https://apeltzer.github.io/tags/nf-core/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/nf-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nextflow</title>
+      <link>https://apeltzer.github.io/tags/nextflow/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/nextflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nf-core</title>
+      <link>https://apeltzer.github.io/tags/nf-core/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/nf-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pathogens</title>
       <link>https://apeltzer.github.io/tags/pathogens/</link>
       <pubDate>Mon, 05 Dec 2016 00:00:00 +0100</pubDate>
       
       <guid>https://apeltzer.github.io/tags/pathogens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pipeline</title>
+      <link>https://apeltzer.github.io/tags/pipeline/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible research</title>
+      <link>https://apeltzer.github.io/tags/reproducible-research/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/reproducible-research/</guid>
       <description></description>
     </item>
     

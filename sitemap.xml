@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>https://apeltzer.github.io/post/01-aws-nfcore/</loc>
+      <lastmod>2018-08-22T22:37:28+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/14-ismb/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/13-isc2018/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://apeltzer.github.io/publication/08-baehr/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
     </url>
@@ -20,6 +44,22 @@
     
     <url>
     
+      <loc>https://apeltzer.github.io/talk/12-gcb2017/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/11-mge/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://apeltzer.github.io/publication/06-greeks/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
     </url>
@@ -30,6 +70,22 @@
     
       <loc>https://apeltzer.github.io/publication/05-mummies/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/09-ukas/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/10-ukas/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
     </url>
     
   
@@ -60,8 +116,24 @@
     
     <url>
     
+      <loc>https://apeltzer.github.io/talk/08_qbic2016/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://apeltzer.github.io/publication/04-syphilis/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/07_smbe2016/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
     </url>
     
   
@@ -78,6 +150,54 @@
     
       <loc>https://apeltzer.github.io/publication/02-eager/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/06_isc2015/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/05-ismb2015/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/04-blaubeuren/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/03-kiel2014/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/01-isba2014/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/talk/02-steve2014/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
     </url>
     
   
@@ -103,6 +223,15 @@
     
       <loc>https://apeltzer.github.io/tags/adna/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/aws/</loc>
+      <lastmod>2018-08-22T22:37:28+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -146,7 +275,34 @@
     
     <url>
     
+      <loc>https://apeltzer.github.io/tags/bioinformatics/</loc>
+      <lastmod>2018-08-22T22:37:28+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://apeltzer.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/cloud-computing/</loc>
+      <lastmod>2018-08-22T22:37:28+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/docker/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -165,6 +321,15 @@
     
       <loc>https://apeltzer.github.io/tags/evolution/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/evolutionary-biology/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -199,8 +364,53 @@
     
     <url>
     
+      <loc>https://apeltzer.github.io/tags/mitobench/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/mitodb/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://apeltzer.github.io/tags/mummy/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/nf-core/</loc>
+      <lastmod>2018-08-22T22:37:28+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/nextflow/</loc>
+      <lastmod>2018-08-22T22:37:28+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/nf-core/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -217,8 +427,26 @@
     
     <url>
     
+      <loc>https://apeltzer.github.io/tags/pipeline/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://apeltzer.github.io/publication_types/</loc>
       <lastmod>2018-08-22T21:28:46+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://apeltzer.github.io/tags/reproducible-research/</loc>
+      <lastmod>2018-08-22T22:14:15+02:00</lastmod>
       <priority>0</priority>
     </url>
     

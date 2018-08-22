@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MitoDB on Alex Peltzer&#39;s webpage</title>
+    <link>https://apeltzer.github.io/tags/mitodb/</link>
+    <description>Recent content in MitoDB on Alex Peltzer&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 03 Sep 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://apeltzer.github.io/tags/mitodb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MitoBench and MitoDB: Novel interactive methods for population genetics on mitochondrial DNA</title>
+      <link>https://apeltzer.github.io/talk/11-mge/</link>
+      <pubDate>Sun, 03 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/11-mge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mitoBench: Modern methods for visually enhanced handling of human mitochondrial data and reference retrieval.</title>
+      <link>https://apeltzer.github.io/talk/10-ukas/</link>
+      <pubDate>Wed, 05 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/talk/10-ukas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

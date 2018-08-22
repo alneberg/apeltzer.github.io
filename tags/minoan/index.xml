@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minoan on Alex Peltzer&#39;s webpage</title>
+    <link>https://apeltzer.github.io/tags/minoan/</link>
+    <description>Recent content in Minoan on Alex Peltzer&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://apeltzer.github.io/tags/minoan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genetic origins of the Minoans and Mycenaeans</title>
+      <link>https://apeltzer.github.io/publication/06-greeks/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/06-greeks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

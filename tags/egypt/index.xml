@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Egypt on Alex Peltzer&#39;s webpage</title>
+    <link>https://apeltzer.github.io/tags/egypt/</link>
+    <description>Recent content in Egypt on Alex Peltzer&#39;s webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 30 May 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://apeltzer.github.io/tags/egypt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ancient Egyptian mummy genomes suggest an increase of Sub-Saharan African ancestry in post-Roman periods</title>
+      <link>https://apeltzer.github.io/publication/05-mummies/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/05-mummies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

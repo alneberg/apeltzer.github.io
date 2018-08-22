@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex Peltzer&#39;s webpage on Alex Peltzer&#39;s webpage</title>
-    <link>https://apeltzer.github.io/</link>
-    <description>Recent content in Alex Peltzer&#39;s webpage on Alex Peltzer&#39;s webpage</description>
+    <title>2 on Alex Peltzer&#39;s webpage</title>
+    <link>https://apeltzer.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Alex Peltzer&#39;s webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://apeltzer.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Inferring genetic origins and phenotypic traits of George Bähr, the architect of the Dresden Frauenkirche</title>

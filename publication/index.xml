@@ -12,5 +12,77 @@
 	<atom:link href="https://apeltzer.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Inferring genetic origins and phenotypic traits of George Bähr, the architect of the Dresden Frauenkirche</title>
+      <link>https://apeltzer.github.io/publication/08-baehr/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/08-baehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstructing Prehistoric African Population Structure</title>
+      <link>https://apeltzer.github.io/publication/07-african/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/07-african/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic origins of the Minoans and Mycenaeans</title>
+      <link>https://apeltzer.github.io/publication/06-greeks/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/06-greeks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient Egyptian mummy genomes suggest an increase of Sub-Saharan African ancestry in post-Roman periods</title>
+      <link>https://apeltzer.github.io/publication/05-mummies/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/05-mummies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origin of modern syphilis and emergence of a pandemic Treponema pallidum cluster</title>
+      <link>https://apeltzer.github.io/publication/04-syphilis/</link>
+      <pubDate>Mon, 05 Dec 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/04-syphilis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The genetic history of Ice Age Europe</title>
+      <link>https://apeltzer.github.io/publication/03-iceage/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/03-iceage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EAGER: efficient ancient genome reconstruction</title>
+      <link>https://apeltzer.github.io/publication/02-eager/</link>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/02-eager/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inPHAP: Interactive visualization of genotype and phased haplotype data</title>
+      <link>https://apeltzer.github.io/publication/01-inphap/</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/publication/01-inphap/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

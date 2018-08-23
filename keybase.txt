@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/apeltzer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://apeltzer.github.io
+  * I am apeltzer (https://keybase.io/apeltzer) on keybase.
+  * I have a public key ASDWIJWW1RI0HubFk8RZivsZ6D8GmaUXisBuIpn2M-UJOwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d6209596d512341ee6c593c4598afb19e83f0699a5178ac06e2299f633e5093b0a",
+      "host": "keybase.io",
+      "kid": "0120d6209596d512341ee6c593c4598afb19e83f0699a5178ac06e2299f633e5093b0a",
+      "uid": "0a2ce9ab49691875e190637f06507419",
+      "username": "apeltzer"
+    },
+    "merkle_root": {
+      "ctime": 1535037112,
+      "hash": "e25cf51f80c1ac93701a0887b58cbcf9faa6934dd7ef521b7132fdbadb66dd01cc95998c47da3f54012e7f9ef2b107fcdabd608ef0dcdb910faa39b0b4f0950e",
+      "hash_meta": "4f6a96e194095946c5b18a8f74027144719c19c9ddf028e8b3363d4e48837cb0",
+      "seqno": 3505493
+    },
+    "service": {
+      "entropy": "nfr8yAQB+6kD2ee8w8vWPULn",
+      "hostname": "apeltzer.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1535037157,
+  "expire_in": 504576000,
+  "prev": "9486f25de87253dc787803a8ff277d688b7fc6ae7977ccdc7f914197de7eb216",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1iCVltUSNB7mxZPEWYr7Geg/BpmlF4rAbiKZ9jPlCTsKp3BheWxvYWTESpcCC8QglIbyXehyU9x4eAOo/yd9aIt/xq55d8zcf5FBl95+shbEIPhZ/4q1I7O4f/b2pCl1FjYuy5fWvMdWWNlZtxlI9cG+AgHCo3NpZ8RAPsqbcjZ2H+C4zftZdRNAt3cbVuDQWtM9RjeZKCI5Da0lb2Oj2sogaTvV+UMNflTGZkwh/QJPNfSqRX1qiid9CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJoOOkXJE8TwibkCWcGbHKQusKUGhYo/q7nH6bkL1HiVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/apeltzer
+
+==================================================================
+

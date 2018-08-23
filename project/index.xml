@@ -12,5 +12,14 @@
 	<atom:link href="https://apeltzer.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>nf-core</title>
+      <link>https://apeltzer.github.io/project/nfcore/</link>
+      <pubDate>Thu, 23 Aug 2018 14:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/project/nfcore/</guid>
+      <description>Over at nf-co.re we are working on solving one of the biggest issues in modern computational biology: How do we make the efforts to analyze various kinds of OMICs data reproducible and thus also accessible to everyone? In the age of &amp;ldquo;fake news&amp;rdquo;, science has to not only answer questions, but also provide means that their findings can be reproduced and not mistakenly used for other malicious or harmful activities. While doing malicious things with OMICs data is certainly hard to pursue, the good practice of making entire analysis procedures reproducible - even years later - remains the biggest motivators for the nf-core project.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -60,7 +60,7 @@
     <item>
       <title>Bioinformatics</title>
       <link>https://apeltzer.github.io/tags/bioinformatics/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 23 Aug 2018 14:00:00 +0200</pubDate>
       
       <guid>https://apeltzer.github.io/tags/bioinformatics/</guid>
       <description></description>
@@ -177,9 +177,18 @@
     <item>
       <title>Nextflow</title>
       <link>https://apeltzer.github.io/tags/nextflow/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 23 Aug 2018 14:00:00 +0200</pubDate>
       
       <guid>https://apeltzer.github.io/tags/nextflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nf-core</title>
+      <link>https://apeltzer.github.io/tags/nf-core/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/tags/nf-core/</guid>
       <description></description>
     </item>
     

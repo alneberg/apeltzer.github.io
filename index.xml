@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>nf-core</title>
+      <link>https://apeltzer.github.io/project/nfcore/</link>
+      <pubDate>Thu, 23 Aug 2018 14:00:00 +0200</pubDate>
+      
+      <guid>https://apeltzer.github.io/project/nfcore/</guid>
+      <description>&lt;p&gt;Over at &lt;a href=&#34;https://nf-co.re&#34; target=&#34;_blank&#34;&gt;nf-co.re&lt;/a&gt; we are working on solving one of the biggest issues in modern computational biology: How do we make the efforts to analyze various kinds of OMICs data reproducible and thus also accessible to everyone? In the age of &amp;ldquo;fake news&amp;rdquo;, science has to not only answer questions, but also provide means that their findings can be reproduced and not mistakenly used for other malicious or harmful activities. While doing malicious things with OMICs data is certainly hard to pursue, the good practice of making entire analysis procedures reproducible - even years later - remains the biggest motivators for the nf-core project. Our intention is to form a collaborative research platform to enable various bioinformatics researchers to benefit from know-how as generated in this project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Running nf-co.re pipelines with AWSBatch</title>
       <link>https://apeltzer.github.io/post/01-aws-nfcore/</link>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0200</pubDate>
@@ -408,15 +418,6 @@ nextflow parameter &lt;code&gt;-work-dir / -w&lt;/code&gt;.&lt;/p&gt;
       <pubDate>Mon, 18 Jul 2016 00:00:00 +0200</pubDate>
       
       <guid>https://apeltzer.github.io/talk/07_smbe2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The genetic history of Ice Age Europe</title>
-      <link>https://apeltzer.github.io/publication/03-iceage/</link>
-      <pubDate>Mon, 02 May 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://apeltzer.github.io/publication/03-iceage/</guid>
       <description></description>
     </item>
     
